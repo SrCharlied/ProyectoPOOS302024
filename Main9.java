@@ -14,7 +14,8 @@ public class Main {
                 "Zona 12, Ciudad de Guatemala");
         Proovedor p7 = new Proovedor("Marcelo Sanabria", "3431 66666 6666", "Carpinteria", "Instalacion de interiores",
                 "Zona 12, Ciudad de Guatemala");
-
+		Proovedor p8 = new Proovedor("Julian Detlefsen", "6666 34526 6666", "Carpinteria", "Renovacion de puertas",
+                "Zona 12, Ciudad de Guatemala");
 
         
     }
