@@ -13,10 +13,11 @@ public class Main {
         Proovedor p6 = new Proovedor("Jose Asencio", "5555 55555 5555", "Electricidad", "Istalacion de iluminacion",
                 "Zona 12, Ciudad de Guatemala");
         Proovedor p7 = new Proovedor("Marcelo Sanabria", "3431 66666 6666", "Carpinteria", "Instalacion de interiores",
-                "Zona 12, Ciudad de Guatemala");
+                "Zona 10, Ciudad de Guatemala");
 		Proovedor p8 = new Proovedor("Julian Detlefsen", "6666 34526 6666", "Carpinteria", "Renovacion de puertas",
-                "Zona 12, Ciudad de Guatemala");
-
+                "Zona 2, Ciudad de Guatemala");
+		Proovedor p9 = new Proovedor("Martin Orozco", "3333 34526 6666", "Electrodomesticos", "Reparacion de lavadoras",
+                "Zona 1, Ciudad de Guatemala");
         
     }
     
