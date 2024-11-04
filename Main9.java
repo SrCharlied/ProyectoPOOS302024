@@ -18,7 +18,8 @@ public class Main {
                 "Zona 2, Ciudad de Guatemala");
 		Proovedor p9 = new Proovedor("Martin Orozco", "3333 34526 6666", "Electrodomesticos", "Reparacion de lavadoras",
                 "Zona 1, Ciudad de Guatemala");
-        
+       	Proovedor p10 = new Proovedor("Marcos Ortiz", "3333 34526 6616", "Electrodomesticos", "Servicios para hornos",
+                "Zona 15, Ciudad de Guatemala"); 
     }
     
 }
