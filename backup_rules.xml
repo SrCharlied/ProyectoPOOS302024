@@ -1,6 +1,0 @@
-<resources>
-    <string-array name="dropdown_items">
-        <item>Efectivo</item>
-        <item>Tarjeta</item>
-    </string-array>
-</resources>
